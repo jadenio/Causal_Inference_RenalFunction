@@ -17,6 +17,6 @@ The PFAS of interest include Total PFAS (the sum of all PFAS), PFOS, PFOA, PFHxS
 
 The Average Dose-Response Functions for the overall sample 
 
-[Imgur](https://i.imgur.com/kT40MYW.png)
-![Screenshot](https://i.imgur.com/kT40MYW.png)
+
+![Screenshot](https://i.imgur.com/XYimxr7.png)
 ![Screenshot](https://i.imgur.com/ByXWNKE.png)

@@ -2,6 +2,10 @@
 ## Bayesian Additive Regression Trees
 Bayesian Additive Regression Trees (BART) is a sum-of-trees regression model that shows great performance for causal inference tasks.
 
+An example of a 3-tree BART model is shown below
+
+![Screenshot](https://i.imgur.com/A6L4CeK.png)
+
 ## Simulation Study
 To compare the peformance of BART to other methods when the treatment is continuous, a simulation study is performed. BART is compared to Generalized Additive Models (GAM), Inverse Probability of Treatment Weighting (IPTW), Targeted Maximum Likelihood Estimation (TMLE), and Generalized Propensity Scores (GPS) methods. 
 

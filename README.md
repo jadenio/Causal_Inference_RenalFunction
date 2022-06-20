@@ -7,6 +7,9 @@ To compare the peformance of BART to other methods when the treatment is continu
 
 Three simulation scenarios are created, each with three levels of model misspecification: no misspecification, moderate misspecification, strong misspecification.
 
+The results of the third simulation scenario are shown in the figure below. BART clearly performs best in the majority of situations.
+![Screenshot](https://i.imgur.com/zlpa7lU.png)
+
 ## Causal Effect of Perfluoroalkyl acids (PFAS) on Renal Function
 ### Data
 The data for this causal analysis comes from the National Health and Nutrition Examination Survey (NHANES) conducted by the Centers for Disease Control and Prevention (CDC) in the United States.

@@ -16,3 +16,7 @@ Bayesian Additive Regression Trees (BART) is used to derive the Average Dose-Res
 The PFAS of interest include Total PFAS (the sum of all PFAS), PFOS, PFOA, PFHxS, and PFNA. Each PFAS is measured by serum blood concentration in ng/mL.
 
 The Average Dose-Response Functions for the overall sample 
+
+[Imgur](https://i.imgur.com/kT40MYW.png)
+![Screenshot](http://i.imgur.com/ebuHuem.png)
+![Screenshot](http://i.imgur.com/ebuHuem.png)
